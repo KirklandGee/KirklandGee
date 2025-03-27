@@ -1,5 +1,6 @@
-- My name is @KirklandGee, and I'm a digital marketer leveraging software to make my job easier.
-- I write a lot of Python and SQL to automate SEO tasks and understand complex databases
+- Building AI workflows and custom tools @GrowthX
+- Former Pythonista, now working in Typescript + Ruby on Rails
+- Always learning, usually breaking things along the way
 
 <!---
 KirklandGee/KirklandGee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
